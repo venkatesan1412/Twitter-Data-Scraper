@@ -12,7 +12,7 @@ Twitter Scraper is a Python application that allows you to scrape tweets contain
 
 ## Execution
 
-1. Clone the repository: `git clone https://github.com/venkatesan1412/twitter-scraper.git`
+1. Clone the repository: `git clone https://github.com/venkatesan1412/Twitter-Data-Scraper.git`
 2. Install the required packages: 
     * `pip install snscrape`
     * `pip install pandas`
