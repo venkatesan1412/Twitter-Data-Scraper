@@ -1,5 +1,7 @@
 # Twitter Scraper
 
+Twitter Scraper is a Python application that allows you to scrape tweets containing a specified keyword within a given date range. The scraped data can be displayed in a dataframe, uploaded to a MongoDB database, and downloaded in CSV or JSON format.
+
 ## Workflow
 
 * The user inputs a keyword, start date, end date, and number of tweets to scrape in the Streamlit app.
