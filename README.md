@@ -18,7 +18,7 @@ Twitter Scraper is a Python application that allows you to scrape tweets contain
     * `pip install pandas`
     * `pip install pymongo`
     * `pip install streamlit`
-    * `pip install base6`
+    * `pip install base64`
 3. Run the Streamlit app: `streamlit run twitterdatascraper.py`
 4. Enter a keyword, start date, end date, and number of tweets to scrape in the Streamlit app.
 5. Click the "Scrape Tweets" button to scrape tweets.
